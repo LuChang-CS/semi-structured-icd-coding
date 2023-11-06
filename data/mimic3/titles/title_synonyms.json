@@ -1,0 +1,136 @@
+{
+    "discharge diagnosis": [
+        "discharge diagnosis",
+        "discharge diagnoses",
+        "diagnoses on discharge",
+        "diagnosis on discharge",
+        "final diagnosis",
+        "final diagnoses",
+        "final discharge diagnoses",
+        "final discharge diagnosis",
+        "transfer diagnosis",
+        "transfer diagnoses",
+        "diagnosis",
+        "diagnoses"
+    ],
+    "major surgical or invasive procedure": [
+        "major surgical or invasive procedure",
+        "major surgical or invasive procedures",
+        "surgical invasive procedures",
+        "invasive procedures",
+        "invasive procedure",
+        "procedure",
+        "procedures"
+    ],
+    "history of present illness": [
+        "history of present illness",
+        "history of the present illness",
+        "history of presenting illness",
+        "history of the presenting illness",
+        "brief history of illness",
+        "disease history",
+        "disease in past",
+        "of present illness"
+    ],
+    "past medical history": [
+        "past medical history",
+        "previous medical history",
+        "prior medical history",
+        "medical history"
+    ],
+    "brief hospital course": [
+        "brief hospital course",
+        "hospital course",
+        "surgical course",
+        "course"
+    ],
+    "chief complaint": [
+        "chief complaint",
+        "complaint",
+        "complaints"
+    ],
+    "family history": [
+        "family history"
+    ],
+    "physical exam": [
+        "physical exam",
+        "physical exams",
+        "physical examination"
+    ],
+    "admission date": [
+        "admission date",
+        "admission data"
+    ],
+    "discharge date": [
+        "discharge date",
+        "discharge data"
+    ],
+    "service": [
+        "service"
+    ],
+    "date of birth": [
+        "date of birth"
+    ],
+    "sex": [
+        "sex"
+    ],
+    "allergies": [
+        "allergies",
+        "allergy"
+    ],
+    "social history": [
+        "social history"
+    ],
+    "discharge disposition": [
+        "discharge disposition",
+        "disposition on discharge"
+    ],
+    "discharge medications": [
+        "discharge medications",
+        "medications on discharge",
+        "discharge meds",
+        "final discharge medications",
+        "medication on discharge",
+        "discharge medication",
+        "discharge medicines",
+        "discharge medicine",
+        "meds on discharge",
+        "medications on transfer",
+        "medication on transfer",
+        "meds on transfer",
+        "transfer medications",
+        "transfer medication"
+    ],
+    "medications on admission": [
+        "medications on admission",
+        "meds on admission",
+        "admission medications",
+        "admission medication",
+        "admission meds",
+        "medicines on admission"
+    ],
+    "attending": [
+        "attending"
+    ],
+    "discharge condition": [
+        "discharge condition",
+        "condition on discharge"
+    ],
+    "discharge instructions": [
+        "discharge instructions",
+        "discharge instruction",
+        "instructions on discharge",
+        "discharge plan"
+    ],
+    "followup instructions": [
+        "followup instructions",
+        "follow up instructions",
+        "followup instruction",
+        "follow up instruction",
+        "followup",
+        "follow up"
+    ],
+    "pertinent results": [
+        "pertinent results"
+    ]
+}
